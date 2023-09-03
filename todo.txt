@@ -1,0 +1,3 @@
+#add support from pdf and txt
+# take command line  input
+#create an option for merge pdf and separate 
